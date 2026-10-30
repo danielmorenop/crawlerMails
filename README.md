@@ -1,2 +1,3 @@
 # crawlerMails.py
-Crawler en python para extraer los correos electrónicos de un sitio web
+
+Python crawler to extract email addresses from a website
